@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 ushtrimi i dyte
 5
+=======
+detrya1
+>>>>>>> 5957f64308b484dac35aadc5425b9eb9658075f6
